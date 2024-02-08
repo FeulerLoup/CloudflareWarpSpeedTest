@@ -19,7 +19,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/peanut996/CloudflareWarpSpeedTest/utils"
+	"github.com/FeulerLoup/CloudflareWarpSpeedTest/utils"
 
 	"golang.zx2c4.com/wireguard/conn"
 	"golang.zx2c4.com/wireguard/device"
