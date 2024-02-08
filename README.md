@@ -7,36 +7,10 @@
 ## 简介
 Cloudflare WARP 速度测试是一个命令行工具，用于测试 Cloudflare WARP IP 地址的延迟和速度，并获取关于最低延迟和可用端口的信息。它提供了各种选项，以自定义测试参数并根据特定条件筛选结果。
 
-Inspired(Copied) by [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
-
-## 安装
-
-### 包管理器
-#### Homebrew
-```bash
-brew tap peanut996/tap && brew install cloudflarewarpspeedtest
-```
-
-#### WinGet
-```bash
-winget install peanut996.CloudflareWarpSpeedTest
-```
-
-#### Scoop
-```pwsh
-scoop bucket add peanut996 https://github.com/peanut996/scoop-bucket
-scoop install peanut996/cloudflarewarpspeedtest
-```
-
-#### Go Install
-使用go官方工具链安装(go版本<=1.20)
-
-```bash
-go install github.com/peanut996/CloudflareWarpSpeedTest@latest
-```
+Copied from [CloudflareWarpSpeedTest](https://github.com/peanut996/CloudflareWarpSpeedTest)
 
 ### Release
-前往 [Releases](https://github.com/peanut996/CloudflareWarpSpeedTest/releases) 页面，下载预编译的二进制文件。
+前往 [Releases](https://github.com/FeulerLoup/CloudflareWarpSpeedTest/releases) 页面，下载预编译的二进制文件。
 
 
 ## 用法
