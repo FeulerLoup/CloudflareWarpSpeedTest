@@ -7,36 +7,10 @@
 ## Introduction
 Cloudflare WARP Speed Test is a command-line tool for testing the latency and speed of Cloudflare WARP IP addresses and obtaining information about the minimum latency and available ports. It provides various options to customize test parameters and filter results based on specific conditions.
 
-Inspired(Copied) by [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest)
-
-## Installation
-
-### Package Manager
-#### Homebrew
-```bash
-brew tap peanut996/tap && brew install cloudflarewarpspeedtest
-```
-
-#### WinGet
-```bash
-winget install peanut996.CloudflareWarpSpeedTest
-```
-
-#### Scoop
-```pwsh
-scoop bucket add peanut996 https://github.com/peanut996/scoop-bucket
-scoop install peanut996/cloudflarewarpspeedtest
-```
-
-#### Go Install
-use go tool to install(go version <= 1.20)
-
-```bash
-go install github.com/peanut996/CloudflareWarpSpeedTest@latest
-```
+Copied from [CloudflareWarpSpeedTest](https://github.com/peanut996/CloudflareWarpSpeedTest)
 
 ### Release
-go to [Releases](https://github.com/peanut996/CloudflareWarpSpeedTest/releases) page, download the pre-compiled binary file.
+go to [Releases](https://github.com/FeulerLoup/CloudflareWarpSpeedTest/releases) page, download the pre-compiled binary file.
 
 
 ## Usage
