@@ -1,4 +1,4 @@
-module github.com/peanut996/CloudflareWarpSpeedTest
+module github.com/FeulerLoup/CloudflareWarpSpeedTest
 
 go 1.20
 
